@@ -26,10 +26,5 @@ If you make some changes, commit them in the github app with a message with what
 IF something breaks or doesn't work just message me and hopefully we can fix it. It's hard to mess up with git because even if you do mess up you should always be able to get back to a previous version of things.
 https://help.github.com/desktop/guides/contributing/syncing-your-branch/ will also work when things don't quite work out
 You can ask someone at github to help you out :)
-
-###Working together
-Every week (send you info on sunday morning) I will tell you what should be completed by friday, we test friday afternoon/night or sat morning. (We can cahnge this if it's inconvenient)
-
-You should write your class(classes) and a test class, on your local machine. Bring it to the lab, test your class, if it works, then we commit it! If not we just tweek it until it works and we're all good.
 That's it! Cheers!
 Evan

@@ -1,14 +1,7 @@
-package robot;
-/*
+package robot;/*
  * Created by evanknox on 2015-10-27.
  */
 
-import robot.navigation.Capturer;
-
-/**
- * This class represents our actual implementation of the robot class, we may have multiple implementations if
- * a specific implementation fails to pass all of our tests later on.
- */
 public class GameRobot extends Robot {
     @Override
     public void moveTo() {
@@ -32,7 +25,7 @@ public class GameRobot extends Robot {
 
     @Override
     public void capture() {
-        Capturer.capture();
+
     }
 
     @Override

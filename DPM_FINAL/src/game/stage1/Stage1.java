@@ -10,7 +10,7 @@ public class Stage1 {
     }
 
     public void start(){
-        robot.localize(); //First thing is to localize..
+        robot.localize(); //First thing is to localize...
 
     }
 
